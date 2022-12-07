@@ -1,0 +1,11 @@
+.background{
+    background-color: antiquewhite;
+}
+
+.Dance{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-weight: 12px;
+    letter-spacing: 1px;
+    color: black;
+}
